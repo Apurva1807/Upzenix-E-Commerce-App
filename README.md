@@ -25,3 +25,5 @@ A simple React-based e-commerce application built as a capstone project.
 - React Router
 - Zustand
 - FakeStore API
+
+## Deployment link:https://upzenix-e-commerce-app.vercel.app/
